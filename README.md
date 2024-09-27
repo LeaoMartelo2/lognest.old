@@ -1,4 +1,9 @@
+# THIS IS THE OLD, DEPRECATED VERSION OF THE LogNest library, that was originally written in C++ and had a horrible design pattern, i find it entresting enough to be kept arround as a learning exercice on what not to do.
+
+
 # LogNest
+
+
 
 Simple C++ library to easily make logs on to a file.
 
