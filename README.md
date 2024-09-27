@@ -1,6 +1,11 @@
 # THIS IS THE OLD, DEPRECATED VERSION OF THE LogNest library, that was originally written in C++ and had a horrible design pattern, i find it entresting enough to be kept arround as a learning exercice on what not to do.
 
 
+## Advantages of [the C version](https://github.com/LeaoMartelo2/lognest):
+- 50% less bullshit in the code (here we'll get syntax sugar overdose)
+- 20% less included libraries! (here you had to link with like 2 other libraries, was a dinamically linked, so you needed the final user to install it, wich, for a library as small as this is not worth it, you might aswell just bake it in the executable, also the new design pattern allows you to just copy the code and add it directly in your project, no installing needed)
+
+
 # LogNest
 
 
